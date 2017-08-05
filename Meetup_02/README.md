@@ -3,7 +3,7 @@ Pandas for Data Analysis
 
 - [Slide](https://speakerdeck.com/huyhoang17/pandas-for-data-analysis)
 
-- [Jupyter Notebook]()
+- [Jupyter Notebook](https://github.com/huyhoang17/Python_Hanoi_Meetup/blob/master/Meetup_02/Meetup_02.ipynb)
 
 ### References
 
