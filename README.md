@@ -2,7 +2,7 @@ Hanoi Python Meetup
 ---
 
 ### Prepare (for speakers):
-- [Slide template](slide_template)
+- [Slide template](slide_template.pptx)
 - Install any VNC Server software (eg. TightVNC) before meetup.
 
 ### Meetup 02
