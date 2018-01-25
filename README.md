@@ -35,7 +35,7 @@ __Speaker 2__: [Phan Hoang](https://github.com/huyhoang17)
 
 __Speaker 3__: [htl](https://github.com/htlcnn)
 - Python and Revit for B.I.M (construction)
-- [Slide-TODO]()
+- [Slide-TODO](Meetup_03/slide/meetup03_htl.pdf)
 
 __Speaker 4__: [QuangVN VCCloud - update github link]()
 - Eve - RESTful API for human
