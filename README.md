@@ -42,3 +42,22 @@ __Speaker 4__: [QuangVN VCCloud - update github link]()
 - Eve - RESTful API for human
 - [Slide](https://speakerdeck.com/b3g00d/eve-restful-api-for-human)
 ---
+
+
+### Meetup 04
+
+__Time__: 03/03/2018 - [__Link Event__](https://www.facebook.com/events/2041754329430631/)
+Livestream link: https://www.facebook.com/pyfml/posts/1629318717153377
+
+__Speaker 1__: Nguyen Quang Vinh
+- clean code Python
+- [Slide](TODO)
+
+__Speaker 2__: [HVN](https://github.com/hvnsweeting/)
+- An example for Decorator && Monkey Patching
+- [Slide](http://slides.com/hvnsweeting/decorator#/)
+
+__Speaker 3__: [DucPham](TODO)
+- Security for Web applications
+- [Slide](TODO)
+---
