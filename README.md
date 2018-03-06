@@ -51,7 +51,7 @@ Livestream link: https://www.facebook.com/pyfml/posts/1629318717153377
 
 __Speaker 1__: Nguyen Quang Vinh
 - clean code Python
-- [Slide](TODO)
+- [Slide](Meetup_04/clean_code_python/CleanCode_meetup_HN04_2018_0303.pdf)
 
 __Speaker 2__: [HVN](https://github.com/hvnsweeting/)
 - An example for Decorator && Monkey Patching
